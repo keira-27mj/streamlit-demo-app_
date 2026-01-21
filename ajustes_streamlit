@@ -1,0 +1,22 @@
+en el terminal:
+pip install streamlit
+
+python -m streamlit hello
+
+streamlit run hello.py
+
+python -m streamlit hello
+
+
+
+Virtual env:
+python -m venv .venv
+
+Activar virt. env:
+macOS/Linux: source .venv/bin/activate
+Windows (Command Prompt): .venv\Scripts\activate.bat
+
+Instalar streamlit:
+pip install streamlit
+	
+streamlit run your_app_name.py
